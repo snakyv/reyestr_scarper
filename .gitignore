@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Scrapy output/debug
+debug/
+*.csv
+*.json
+*.jsonl
+*.xlsx
+
+# IDE files (PyCharm)
+.idea/
+*.iml
+
+# System
+.DS_Store
